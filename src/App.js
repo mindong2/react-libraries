@@ -1,10 +1,9 @@
-// import Moment from "./date/Moment";
-import Day from "./date/Day";
+import ReactBootStrap from "./ui/ReactBootstrap";
 
 function App() {
   return (
     <>
-      <Day />
+      <ReactBootStrap />
     </>
   );
 }
