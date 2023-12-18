@@ -10,7 +10,7 @@
 - Styled-Components [https://styled-components.com/]
 - emotion [https://emotion.sh/docs/introduction]
 
-- ## UI 관련 라이브러리
+## UI 관련 라이브러리
 
 - Onsen ui [https://onsen.io/v2/api/react/]
 - Antd [https://ant.design/components/overview/]
