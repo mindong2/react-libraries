@@ -1,9 +1,9 @@
-import ReactBootStrap from "./ui/ReactBootstrap";
+import Mocking from "./mocking/Mocking";
 
 function App() {
   return (
     <>
-      <ReactBootStrap />
+      <Mocking />
     </>
   );
 }
