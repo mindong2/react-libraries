@@ -15,3 +15,12 @@
 - Onsen ui [https://onsen.io/v2/api/react/]
 - Antd [https://ant.design/components/overview/]
 - React Bootstrap [https://react-bootstrap.netlify.app/docs/getting-started/introduction]
+
+## Mocking 관련 라이브러리
+
+- msw [https://mswjs.io/]
+
+## 상태관리 관련 라이브러리
+
+- Redux Toolkit [https://redux-toolkit.js.org/]
+- Recoil [https://recoiljs.org/ko/]
